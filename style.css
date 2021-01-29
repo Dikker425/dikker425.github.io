@@ -1,14 +1,5 @@
-@import url(//db.onlinewebfonts.com/c/1bdb2027940efbf391513917a129a0d7?family=ROTORcap+Neue);
-
 body{
 	background: rgba(63, 63, 63, 0.521);
   }
 
-  @font-face {
-	font-family: "ROTORcap Neue"; 
-	src: url("//db.onlinewebfonts.com/t/1bdb2027940efbf391513917a129a0d7.eot"); 
-	src: url("//db.onlinewebfonts.com/t/1bdb2027940efbf391513917a129a0d7.eot?#iefix") format("embedded-opentype"), 
-	url("//db.onlinewebfonts.com/t/1bdb2027940efbf391513917a129a0d7.woff2") format("woff2"), 
-	url("//db.onlinewebfonts.com/t/1bdb2027940efbf391513917a129a0d7.woff") format("woff"), 
-	url("//db.onlinewebfonts.com/t/1bdb2027940efbf391513917a129a0d7.ttf") format("truetype"), 
-	url("//db.onlinewebfonts.com/t/1bdb2027940efbf391513917a129a0d7.svg#ROTORcap Neue") format("svg"); }
+p { color:  navy; }
