@@ -1,5 +1,24 @@
+  @font-face {
+    font-family: HachiMaruPop-Regular;
+    src: url(./fonts/HachiMaruPop-Regular.ttf);
+}
+
+@font-face {
+	font-family: AlfaSlabOne-Regular;
+	src: url(./fonts/AlfaSlabOne-Regular.ttf);
+}
+
+@font-face {
+	font-family: Audiowide-Regular;
+	src: url(./fonts/Audiowide-Regular.ttf);
+}
+
+@font-face {
+	font-family: RuslanDisplay-Regular;
+	src: url(./fonts/RuslanDisplay-Regular.ttf);
+}
+
 body{
 	background: rgba(63, 63, 63, 0.521);
-  }
-
-p { color:  navy; }
+	font-family: 'RuslanDisplay-Regular';
+}
